@@ -9,6 +9,7 @@ int main(void){
 	printf("10を引くと%dです\n", a-10);
 	printf("10をかけると%dです\n", a*10);
 	printf("10を割ると%dです\n", a/10);
+	printf("10で割った余りは%dです\n", a%10);
 
 	return 0;
 }
