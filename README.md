@@ -1,2 +1,17 @@
-# PracticeC
-This is practice repository.
+# C言語の練習  
+【参考書】新・解きながら学ぶC言語「新・明解C言語入門編」を参考にC言語の練習.  
+
+# 目次
+Unit2 演算と型  
+Unit3 プログラムの流れの分岐  
+Unit4 プログラムの流れの繰り返し  
+Unit5 配列  
+Unit6 関数  
+Unit7 基本型  
+Unit8 いろいろなプログラム  
+Unit9 文字列の基本  
+Unit10 ポインタ  
+Unit11 文字列とポインタ  
+Unit12 構造体  
+Unit13 ファイル処理  
+Unit14 演習
